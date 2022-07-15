@@ -7,7 +7,6 @@ StyleSheet,
 SafeAreaView,
 StatusBar,
 Pressable,
-link,
 Linking,
  } from "react-native";
 
